@@ -1,8 +1,7 @@
 <?php
 
-namespace nufat\cli;
+namespace Nufat\Cli;
 
-include 'vendor/zved/dbcheck.php';
 class Auth extends DbCheck
 {
     public function Index()

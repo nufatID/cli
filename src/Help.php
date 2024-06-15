@@ -1,6 +1,6 @@
 <?php
 
-namespace nufat\cli;
+namespace Nufat\Cli;
 
 class Help
 {
