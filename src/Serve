@@ -1,0 +1,11 @@
+<?php
+
+namespace Nufat\Cli;
+
+class Serve
+{
+    public function __construct()
+    {
+        $this->run();
+    }
+}
